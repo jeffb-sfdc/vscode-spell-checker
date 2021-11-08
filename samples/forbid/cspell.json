@@ -1,0 +1,20 @@
+{
+    "version": "0.2",
+    "flagWords": [
+        "don't",
+        "won't",
+        "shouldn't",
+        "couldn't",
+        "would've",
+        "could've",
+        "they'd",
+        "they'll",
+        "they're",
+        "they've",
+        "therefor",
+        "'t",
+        "'d",
+        "'ll",
+        "'re"
+    ]
+}
